@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Experimento: El Poder del Centavo</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f4f4f9;
+            text-align: center;
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        h1 { color: #2c3e50; }
+        .highlight {
+            font-size: 1.5em;
+            color: #27ae60;
+            font-weight: bold;
+            margin: 20px 0;
+        }
+        .data-box {
+            background: #e8f4fd;
+            padding: 20px;
+            border-radius: 10px;
+            border: 1px dashed #3498db;
+            display: inline-block;
+            margin: 20px 0;
+        }
+        .footer {
+            margin-top: 40px;
+            font-size: 0.9em;
+            color: #7f8c8d;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Proyecto: Capitalismo Social y Solidario</h1>
+        <p>¿Es posible que la tecnología nos conecte a través de la unidad mínima de valor?</p>
+        
+        <p>Este sitio es un experimento para comprobar si cualquier persona, desde cualquier rincón del mundo, puede donar exactamente <strong>1 centavo de dólar</strong> (o su equivalente local).</p>
+
+        <div class="highlight">Objetivo: Probar la capilaridad financiera global.</div>
+
+        <div class="data-box">
+            <p><strong>Datos para la transferencia:</strong></p>
+            <p>CBU / Alias: [INSERTÁ_TU_DATO_AQUÍ]</p>
+            <p>Banco: [NOMBRE_DE_TU_BANCO]</p>
+        </div>
+
+        <p><em>"Si todos aportamos lo mínimo, el impacto es máximo."</em></p>
+    </div>
+
+    <div class="footer">
+        <p>Experimento iniciado en marzo de 2026. Los resultados serán compartidos públicamente.</p>
+    </div>
+
+</body>
+</html>
